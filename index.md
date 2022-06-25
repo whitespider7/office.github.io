@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: http://69.57.161.30
+target: http://google.com
 ---
